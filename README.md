@@ -1,1 +1,2 @@
-# Indentaci-n
+# Indentación
+Adjunto los archivos de la segunda actividad
